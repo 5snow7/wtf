@@ -1,6 +1,6 @@
 A simple git test.
 
-
+A simple test addendum.  
 …or push an existing repository from the command line
 git remote add origin https://github.com/PhsTigers/prac_Git.git
 git branch -M main
